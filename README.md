@@ -1,152 +1,178 @@
-<h1 align="center">Hi 👋, I'm Deepa Chandrashekhar Rathod</h1>
-<h3 align="center">AI & Full-Stack Developer | ML Researcher | Computer Vision Enthusiast | Open Source Learner</h3>
+# <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Deepa+Chandrashekhar+Rathod;AI+Engineer+%7C+ML+Researcher;Full+Stack+Developer;Computer+Vision+Enthusiast;Building+Intelligent+Solutions+%F0%9F%9A%80" />
 
-<p align="center">
-  <a href="https://github.com/DeepaRathod168">
-    <img src="https://img.shields.io/github/followers/DeepaRathod168?label=Followers&style=social" />
-  </a>
-  <a href="https://mindmesh168.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/deepa-chandrashekhar-rathod-339927300">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Deepa%20Chandrashekhar%20Rathod&fontAlign=50&fontAlignY=38&color=gradient&fontColor=ffffff&animation=fadeIn"/>
+
+### 🚀 AI Engineer • Full Stack Developer • ML Researcher • Innovator
+
+<p>
+<a href="https://github.com/DeepaRathod168"><img src="https://img.shields.io/github/followers/DeepaRathod168?style=for-the-badge&logo=github&color=7C3AED"/></a>
+<a href="https://github.com/DeepaRathod168"><img src="https://img.shields.io/github/stars/DeepaRathod168?style=for-the-badge&logo=github&color=2563EB"/></a>
+<a href="https://mindmesh168.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge&logo=vercel"/></a>
+<a href="https://www.linkedin.com/in/deepa-chandrashekhar-rathod-339927300"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=DeepaRathod168&style=for-the-badge&color=blueviolet"/>
 
-# 🚀 About Me
-
-I'm a Software Engineering undergraduate passionate about building intelligent systems that solve real-world problems through Artificial Intelligence, Machine Learning, Computer Vision, and Full-Stack Development.
-
-I enjoy transforming ideas into scalable applications, combining modern web technologies with AI to create impactful solutions. My interests span research, cloud technologies, open-source development, and solving challenging engineering problems.
-
-- 🎓 B.E. Computer Science & Engineering
-- 🤖 AI • Machine Learning • Computer Vision
-- 💻 Full Stack Developer
-- 📚 Published AI Researcher
-- 🚀 NAIN Funded Innovator
-- 🏆 National Hackathon Finalist
-- 🌱 Always learning new technologies
+</div>
 
 ---
 
-# 💻 Tech Stack
+# 💫 About Me
+
+💻 Software Engineering Undergraduate passionate about building **AI-powered products** that solve real-world problems.
+
+🚀 I specialize in:
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 👁 Computer Vision
+- 🌐 Full Stack Development
+- ☁ Cloud Computing
+- 📄 Research & Innovation
+
+I enjoy taking ideas from concept to production by combining AI with modern software engineering to build scalable and impactful applications.
+
+---
+
+# 🏆 Highlights
+
+🏅 Published AI Researcher
+
+💰 ₹4.9 Lakhs NAIN Funded Innovator
+
+🥇 Top Innovator — AI for Bharat Hackathon
+
+🏆 National Level Hackathon Finalist
+
+💼 Infosys Springboard Intern
+
+🧠 Multi-Agent AI Developer
+
+🌍 Open Source Learner
+
+---
+
+# 🚀 Tech Arsenal
+
+<div align="center">
 
 ### Languages
-- Python
-- JavaScript
-- TypeScript
-- SQL
 
-### Frontend
-- React
-- HTML5
-- CSS3
-- Vite
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css,sql"/>
 
-### Backend
-- Firebase
-- REST APIs
-- SQL
+### AI & Machine Learning
 
-### AI / ML
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- NLP
-- CNN
-- Large Language Models (LLMs)
-- TensorFlow
-- OpenCV
-- Pandas
-- NumPy
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+
+### Web Development
+
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,firebase"/>
 
 ### Databases
-- MySQL
-- Firebase
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase"/>
 
 ### Tools
-- Git
-- GitHub
-- Jupyter Notebook
-- Google Colab
 
-### CS Fundamentals
-- Data Structures & Algorithms
-- Operating Systems
-- Computer Networks
-- UNIX
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
 ## 🌍 Air Quality Monitoring System
-- IoT-based environmental monitoring system
-- Tracks AQI, PM2.5, PM10, CO, CO₂, NO₂ and SO₂
-- Live Dashboard
-- Real-time Analytics
-- Funded with **₹4.9 Lakhs** under the **NAIN Innovation Initiative**
+
+> **Python • IoT • Dashboard • Data Visualization**
+
+✅ Live AQI Monitoring
+
+✅ PM2.5 / PM10 Detection
+
+✅ CO, CO₂, NO₂, SO₂ Monitoring
+
+✅ Real-Time Dashboard
+
+💰 Selected for **₹4.9 Lakhs Funding** under **NAIN Innovation Initiative**
 
 ---
 
 ## ❤️ Cardiovascular Disease Prediction
-- Machine Learning prediction system
-- Feature Engineering
-- Data Preprocessing
-- Cross Validation
-- Performance Evaluation using Confusion Matrix
+
+> **Python • Machine Learning**
+
+✔ Feature Engineering
+
+✔ Data Cleaning
+
+✔ Model Training
+
+✔ Cross Validation
+
+✔ Confusion Matrix Analysis
 
 ---
 
 ## 🎥 DeepVision Crowd Monitor
-- Real-time Crowd Density Detection
-- Deep Learning + OpenCV
-- Live Video Processing
-- Intelligent Alert Generation
-- Developed during Infosys Springboard Internship
+
+> **Deep Learning • OpenCV**
+
+🚀 Real-Time Crowd Density Detection
+
+📷 Live Video Processing
+
+⚠ Intelligent Alert System
+
+🏢 Built during Infosys Springboard Internship
 
 ---
 
 ## 🩸 LifeLink Connect
-Blood Donation & Emergency Response Platform
 
-Features:
-- Blood Group Matching
-- GPS Blood Bank Locator
-- Emergency SOS
-- Role Based Authentication
-- Real-time Notifications
+> **React • TypeScript • Firebase • SQL**
 
-Built using:
-- React
-- TypeScript
-- SQL
-- Firebase
+Emergency Blood Donation Platform
+
+✨ Blood Group Matching
+
+✨ GPS Blood Bank Locator
+
+✨ Emergency SOS
+
+✨ Secure Authentication
+
+✨ Real-Time Notifications
 
 ---
 
 ## 🤖 Multi-Agent Research System
 
-An AI-powered research assistant built using multiple specialized AI agents capable of:
+> **Python • LLM • Multi-Agent AI**
 
-- Autonomous Web Research
-- Information Filtering
-- Source Cross Referencing
-- AI Summarization
-- Automated Research Paper Generation
-- PDF Export
+20 Specialized AI Agents
+
+📄 Autonomous Research
+
+🔍 Smart Web Search
+
+📚 Source Verification
+
+📝 Automatic Research Paper Generation
+
+📄 PDF Export
 
 ---
 
 # 📚 Research Publication
 
-**Emotion Recognition Using Machine Learning and Computer Vision: A Hybrid CNN–ViT Multimodal Framework**
+## 📄 Emotion Recognition Using Machine Learning and Computer Vision: A Hybrid CNN–ViT Multimodal Framework
 
-Published in:
+📖 Published in
 
-International Journal of Research and Scientific Innovation (IJRSI)
+**International Journal of Research and Scientific Innovation (IJRSI)**
 
 ISSN: 2321-2705
 
@@ -154,80 +180,119 @@ April 2026
 
 ---
 
-# 🏆 Achievements
+# 💼 Professional Experience
 
-🥇 Top Innovator – AI for Bharat Hackathon (Hack2Skill × AWS)
+## 💻 Infosys Springboard Internship 6.0
 
-🥉 3rd Place – AIT Ideathon 2025
+**Full Stack Development Virtual Intern**
 
-🏅 AI VERSE 2.0 National Hackathon Participant
+- Built AI-powered Computer Vision applications
+- Developed production-style systems
+- Worked under industry mentorship
+- Implemented DeepVision Crowd Monitor
+
+---
+
+## 🚀 Infosys Springboard
+
+**Pragati: Path to Future (Cohort 5)**
+
+Completed technical upskilling program focused on industry readiness and professional development.
+
+---
+
+# 🏅 Achievements
+
+🥇 AI for Bharat Hackathon — Top Innovator
+
+🥉 AIT Ideathon — 3rd Place
+
+🏆 AI VERSE 2.0 National Hackathon
 
 🏅 TechSprint Online Hackathon
 
-🎯 Hackathon Coordinator – Emerge State Level Event
+🎯 Hackathon Coordinator — Emerge
 
-💡 NAIN Innovation Project Selected for Funding
-
----
-
-# 💼 Experience
-
-### Full Stack Development Virtual Intern
-**Infosys Springboard Internship 6.0**
-
-- Built AI-powered Computer Vision applications
-- Developed production-style full-stack projects
-- Worked under industry mentorship
+💰 NAIN Innovation Project Selected
 
 ---
 
-### Infosys Springboard
-**Pragati: Path to Future (Cohort 5)**
+# 📊 GitHub Analytics
 
-Completed industry-oriented technical and professional development program.
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DeepaRathod168&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-# 📈 GitHub Stats
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepaRathod168&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DeepaRathod168&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepaRathod168&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepaRathod168&layout=compact&theme=tokyonight"/>
-
-</p>
+</div>
 
 ---
 
-# 🌐 Connect with Me
+<div align="center">
 
-📧 Email
-> deeparathod168@gmail.com
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepaRathod168&theme=tokyonight&hide_border=true"/>
 
-💼 LinkedIn
-> https://www.linkedin.com/in/deepa-chandrashekhar-rathod-339927300
-
-🌐 Portfolio
-> https://mindmesh168.netlify.app/
-
-💻 GitHub
-> https://github.com/DeepaRathod168
+</div>
 
 ---
 
-# 💡 Current Focus
+<div align="center">
 
-- Artificial Intelligence
-- Computer Vision
-- Large Language Models
-- Full Stack Development
-- Open Source Contributions
-- Cloud Technologies
-- Research & Innovation
+<img src="https://github-profile-trophy.vercel.app/?username=DeepaRathod168&theme=tokyonight&no-frame=true&column=7"/>
+
+</div>
 
 ---
 
-> *"Building intelligent systems that create real-world impact through AI and Software Engineering."*
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepaRathod168&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌱 Currently Exploring
+
+- 🤖 Large Language Models (LLMs)
+- 🧠 Multi-Agent AI Systems
+- ☁ AWS Cloud
+- ⚡ AI Automation
+- 🌐 Scalable Full Stack Applications
+- 🔐 Web Security
+- 🚀 Open Source Contributions
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="mailto:deeparathod168@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/deepa-chandrashekhar-rathod-339927300">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://mindmesh168.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://github.com/DeepaRathod168">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💜 "Building intelligent software that transforms ideas into real-world impact."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+</div>
