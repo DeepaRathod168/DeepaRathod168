@@ -1,184 +1,205 @@
 <div align="center">
 
-# 👋 Hi, I'm Deepa Chandrashekhar Rathod
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=220&section=header&text=Deepa%20Chandrashekhar%20Rathod&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20%7C%20Computer%20Vision%20%7C%20Full-Stack%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-### 🤖 AI/ML & Computer Vision Engineer | Full-Stack Developer | Published Researcher
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6D28D9&center=true&vCenter=true&width=650&lines=Building+AI+that+solves+real+problems;NAIN-funded+Innovator+%E2%82%B94%2C90%2C000;Published+Researcher+%7C+IJRSI+2026;Turning+Prototypes+into+Production" alt="Typing SVG" />
 
-Software Engineering undergraduate specializing in **Artificial Intelligence, Machine Learning, and Computer Vision** — turning research and prototypes into production-ready systems.
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mindmesh168.netlify.app-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white)](https://mindmesh168.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepa-chandrashekhar-rathod-339927300)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepaRathod168)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deeparathod168@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mindmesh168.netlify.app-6D28D9?style=for-the-badge&labelColor=1a1a2e)](https://mindmesh168.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/deepa-chandrashekhar-rathod-339927300)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/DeepaRathod168)
+[![Gmail](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:deeparathod168@gmail.com)
 
 </div>
 
----
+<br/>
 
-## 👩‍💻 About Me
+## 🧬 About Me
 
-- 🎓 B.E., Computer Science & Engineering — Jain Institute of Technology, Davangere *(CGPA: 8.26/10)*
-- 🧠 Focus: AI/ML, Deep Learning, NLP, Computer Vision, CNNs, LLMs
-- 📄 Published researcher — *IJRSI Online Journal*, Vol. 13, Issue 4 (Apr 2026)
-- 🏆 NAIN-funded innovator (₹4,90,000), national hackathon finalist
-- 🌱 Currently exploring: Multi-Agent AI systems & LLM-powered applications
-- 📍 Based in Karnataka, India
+```python
+class Deepa:
+    def __init__(self):
+        self.role = "Software Engineering Undergraduate"
+        self.specialization = ["AI/ML", "Computer Vision", "Full-Stack Dev"]
+        self.institution = "Jain Institute of Technology, Davangere"
+        self.cgpa = 8.26
+        self.published_research = True
+        self.funded_innovator = "₹4,90,000 — NAIN, IIIT Dharwad"
+        self.currently_exploring = "Multi-Agent AI & LLM systems"
 
----
+    def say_hi(self):
+        return "Thanks for visiting — let's build something intelligent! 🚀"
+```
 
-## 🛠️ Tech Stack
+<br/>
+
+## 🛰️ Tech Universe
 
 <div align="center">
 
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Databases & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,react,ts,html,css,tensorflow,opencv,numpy,mysql,firebase,git,github,vscode&theme=dark" />
 
 </div>
 
----
+<br/>
 
-## 📌 Featured Projects
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DeepaRathod168&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepaRathod168&theme=radical&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepaRathod168&layout=compact&theme=radical&hide_border=true" width="50%"/>
+
+</div>
+
+<br/>
+
+## 🚀 Flagship Projects
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🌫️ Air Quality Monitoring System
-`Python` `IoT` `Data Visualization`
+**Python · IoT · Data Visualization**
 
-Product-level IoT system tracking 7+ environmental parameters (AQI, PM2.5, PM10, CO, CO₂, NO₂, SO₂) via a live dashboard.
+Live dashboard tracking AQI, PM2.5, PM10, CO, CO₂, NO₂, SO₂ across 7+ parameters for real-time environmental impact analysis.
 
-💰 **NAIN-funded** — ₹4,90,000 at IIIT Dharwad
+> 💰 NAIN-funded — ₹4,90,000 @ IIIT Dharwad
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### ❤️ Cardiovascular Disease Prediction
-`Python` `ML` `Pandas` `NumPy`
+**Python · ML · Pandas · NumPy**
 
-Supervised ML model predicting CVD risk from ~2,000 patient records with feature engineering and cross-validation.
+Supervised model predicting CVD risk from ~2,000 patient records — feature engineering, cross-validation, confusion-matrix analysis.
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 👁️ DeepVision Crowd Monitor
-`Python` `OpenCV` `Deep Learning`
+**Python · OpenCV · Deep Learning**
 
-Real-time crowd density estimation and overcrowding detection, from live video ingestion to real-time alerting.
+Real-time crowd density estimation & overcrowding alerts — from video ingestion to live inference pipeline.
 
-🏅 *Infosys Springboard Internship 6.0*
+> 🏅 Infosys Springboard Internship 6.0
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🩸 LifeLink Connect
-`React` `TypeScript` `Vite` `SQL`
+**React · TypeScript · Vite · SQL**
 
-Blood donation & emergency-response platform connecting donors, patients, and hospitals with GPS locator and SOS alerts.
-
-</td>
-</tr>
-<tr>
-<td width="100%" valign="top" colspan="2">
-
-### 🤖 Multi-Agent Research System
-`Python` `Multi-Agent AI` `LLMs` `PDF Generation`
-
-A system of 20 specialized AI agents that autonomously search, filter, summarize, and cross-reference sources to generate structured research papers — cutting manual research time from hours to minutes.
+Emergency blood donation platform — GPS blood-bank locator, SOS alerts, role-based auth across 3 user types.
 
 </td>
 </tr>
 </table>
 
----
+<table>
+<tr>
+<td width="100%">
 
-## 💼 Professional Experience
+### 🤖 Multi-Agent Research System
+**Python · Multi-Agent AI · LLMs · PDF Generation**
 
-**🔹 Full-Stack Development Virtual Intern — Infosys Springboard (Internship 6.0)** &nbsp;·&nbsp; *Feb – Apr 2026*
-Built production-style AI/CV systems, including the DeepVision Crowd Monitor, under structured mentorship.
+20 specialized AI agents autonomously search, filter, summarize, and cross-reference sources — generating structured research papers end-to-end. Cuts manual research time from **hours to minutes**.
 
-**🔹 Program Participant — Infosys Springboard, Pragati: Path to Future (Cohort 5)** &nbsp;·&nbsp; *Apr – Jul 2025*
-Completed a structured program covering industry exposure, technical upskilling, and professional communication.
+</td>
+</tr>
+</table>
 
----
+</div>
+
+<br/>
+
+## 💼 Experience Timeline
+
+```
+2026 Feb ─────●  Full-Stack Development Virtual Intern — Infosys Springboard
+              │  Built production-style AI/CV systems under structured mentorship
+              │
+2025 Apr ─────●  Program Participant — Infosys Springboard "Pragati: Path to Future"
+              │  Industry exposure, technical upskilling, professional communication
+```
+
+<br/>
 
 ## 🎓 Education
 
-| 🎓 Degree | 🏫 Institution | 📊 Score | 📅 Years |
-|:---|:---|:---:|:---:|
-| B.E., Computer Science & Engineering | Jain Institute of Technology, Davangere | 8.26 CGPA | 2023 – Present |
-| PCMB (Pre-University) | SV Nanavate PU College, Sandur, Ballari | 80% | 2022 – 2023 |
-| State Board (High School) | Krupa Nilaya School, Sandur, Ballari | 89% | 2020 – 2021 |
+<div align="center">
 
----
+| 🎓 Program | 🏫 Institution | 📊 Score | 📅 Duration |
+|:---|:---|:---:|:---:|
+| **B.E. Computer Science & Engineering** | Jain Institute of Technology, Davangere | `8.26 CGPA` | 2023 – Present |
+| PCMB (Pre-University) | SV Nanavate PU College, Sandur, Ballari | `80%` | 2022 – 2023 |
+| High School | Krupa Nilaya School, Sandur, Ballari | `89%` | 2020 – 2021 |
+
+</div>
+
+<br/>
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+🥇 **Top Innovator** — AI for Bharat Hackathon, Hack2Skill × AWS *(top team of ~100, Mar 2026)*
+🥉 **3rd Place** — AIT Ideathon 2025, Atria Institute of Technology
+🎯 **Finalist** — TechSprint Online Hackathon, GDG OnCampus GSSSIETW
+🎯 **Finalist** — AI VERSE 2.0, 48-Hr National Hackathon, BMS College of Engineering
+🎤 **Coordinator** — Emerge State-Level Hackathon Sub-Event
+
+</div>
+
+<br/>
 
 ## 📜 Certifications
 
-- 🏅 Deloitte Data Analytics Job Simulation — *Forage* (Jan 2026)
-- 🏅 SQL & PostgreSQL — *Udemy* (Jul 2025)
-- 🏅 Data Science Methodology — *IBM / Coursera* (Jul 2025)
-- 🏅 AWS Skill Builder — *Infosys × AWS*
-- 🏅 Front-End Development — *Infosys Springboard*
+<div align="center">
 
----
+![Deloitte](https://img.shields.io/badge/Deloitte-Data_Analytics-86BC25?style=flat-square&logo=deloitte&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-SQL_%26_PostgreSQL-A435F0?style=flat-square&logo=udemy&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM-Data_Science_Methodology-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Skill_Builder-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Infosys](https://img.shields.io/badge/Infosys-Front--End_Dev-007CC3?style=flat-square&logo=infosys&logoColor=white)
 
-## 📄 Publication
+</div>
+
+<br/>
+
+## 📄 Published Research
 
 > **"Emotion Recognition Using Machine Learning and Computer Vision: A Hybrid CNN–ViT Multimodal Framework"**
-> IJRSI Online Journal, ISSN 2321-2705, Vol. 13, Issue 4, pp. 2922–2933 (April 2026)
+> *IJRSI Online Journal · ISSN 2321-2705 · Vol. 13, Issue 4 · pp. 2922–2933 · April 2026*
 
----
+<br/>
 
-## 🏆 Achievements & Leadership
+## 🌱 Beyond Code
 
-| Achievement | Event | Date |
-|:---|:---|:---:|
-| 🥇 Top Innovator | AI for Bharat Hackathon, Hack2Skill × AWS (~100 teams) | Mar 2026 |
-| 🥉 3rd Place | AIT Ideathon 2025, Atria Institute of Technology | 2025 |
-| 🏁 Participant | TechSprint Online Hackathon, GDG OnCampus GSSSIETW | Dec 2025 – Jan 2026 |
-| 🏁 Participant | AI VERSE 2.0, 48-Hr National Hackathon, BMS College of Engineering | Oct 2025 |
-| 🎤 Coordinator | Emerge (State-Level Event) — hackathon sub-event | 25 Mar 2026 |
+**Interests:** Open-Source Development · Research · Web Security · Cloud Computing
+**Languages:** 🇬🇧 English (Professional) · 🇮🇳 Kannada (Native) · 🇮🇳 Hindi (Limited)
 
----
-
-## 🌱 Interests & Languages
-
-**Interests:** Open-Source Development · Research Oriented · Web Security · Cloud Computing
-**Languages:** English (Professional) · Kannada (Native) · Hindi (Limited)
+<br/>
 
 ---
 
 <div align="center">
 
-### 📫 Let's Connect
+### 💌 Let's Build Something Together
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white)](https://mindmesh168.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepa-chandrashekhar-rathod-339927300)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepaRathod168)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deeparathod168@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6D28D9?style=for-the-badge&labelColor=1a1a2e)](https://mindmesh168.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/deepa-chandrashekhar-rathod-339927300)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/DeepaRathod168)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:deeparathod168@gmail.com)
 
-⭐ Thanks for stopping by — feel free to explore my repos and connect!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6D28D9&height=100&section=footer" width="100%"/>
 
 </div>
