@@ -1,117 +1,90 @@
-# 👋 Hi, I'm Deepa Chandrashekhar Rathod
+# 👋 Welcome to my GitHub! I'm Deepa Chandrashekhar Rathod
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Researcher;Full+Stack+Developer;Computer+Vision+Enthusiast;Building+Intelligent+Solutions"/>
-</p>
+Software Engineering undergraduate specializing in **Artificial Intelligence, Machine Learning, and Computer Vision**, with hands-on experience designing full-stack and research-driven systems using Python, React, TensorFlow, and OpenCV. Published AI researcher and NAIN-funded innovator with a strong record of applying engineering skills to solve real-world problems.
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Deepa%20Chandrashekhar%20Rathod&fontAlign=50&fontAlignY=40"/>
-</p>
-
-## 🚀 About Me
-
-Software Engineering undergraduate passionate about Artificial Intelligence, Machine Learning, Computer Vision, and Full-Stack Development.
-
-- 🤖 AI, ML & LLM Enthusiast
-- 💻 Full Stack Developer
-- 📚 Published AI Researcher
-- 💰 NAIN Funded Innovator (₹4.9 Lakhs)
-- 🏆 National Hackathon Participant
-- 💼 Infosys Springboard Intern
-
-## 💼 Professional Summary
-
-I build intelligent software that bridges research and real-world applications. My work spans AI systems, IoT, healthcare, computer vision, and cloud-backed full-stack applications. I enjoy transforming ideas into scalable products with clean engineering practices.
-
-## 🛠 Tech Stack
-
-### Languages
-Python • JavaScript • TypeScript • SQL • HTML • CSS
-
-### AI & Data
-Machine Learning • Deep Learning • NLP • Computer Vision • CNN • LLMs • TensorFlow • OpenCV • Pandas • NumPy
-
-### Web
-React • Vite • Firebase • REST APIs
-
-### Databases
-MySQL • Firebase
-
-### Tools
-Git • GitHub • VS Code • Jupyter Notebook • Google Colab
-
-## 🚀 Featured Projects
-
-### 🌍 Air Quality Monitoring System
-- IoT-based environmental monitoring platform.
-- Tracks AQI, PM2.5, PM10, CO, CO₂, NO₂ and SO₂.
-- Live dashboard with real-time visualization.
-- Selected under the NAIN Innovation Initiative with ₹4.9 lakh funding.
-
-### ❤️ Cardiovascular Disease Prediction
-- Machine learning model trained on ~2,000 patient records.
-- Feature engineering, preprocessing, validation and performance evaluation.
-
-### 🎥 DeepVision Crowd Monitor
-- Real-time crowd density estimation using OpenCV and Deep Learning.
-- Live video processing with intelligent overcrowding alerts.
-- Developed during Infosys Springboard Internship.
-
-### 🩸 LifeLink Connect
-- Blood donation & emergency response platform.
-- React, TypeScript, SQL and Firebase.
-- Blood-group matching, GPS blood bank locator, SOS alerts and secure authentication.
-
-### 🤖 Multi-Agent Research System
-- 20 specialized AI agents.
-- Autonomous research, summarization, source verification and PDF generation.
-- Reduced research time from hours to minutes.
-
-## 📚 Research
-
-**Emotion Recognition Using Machine Learning and Computer Vision: A Hybrid CNN–ViT Multimodal Framework**
-
-Published in IJRSI (April 2026)
-
-## 🏆 Achievements
-
-- 🥇 Top Innovator – AI for Bharat Hackathon (Hack2Skill × AWS)
-- 🥉 3rd Place – AIT Ideathon
-- 💰 NAIN Innovation Funding Recipient
-- 💼 Infosys Springboard Internship 6.0
-- 🎯 Hackathon Coordinator – Emerge
-- 📖 Published AI Researcher
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DeepaRathod168&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepaRathod168&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepaRathod168&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DeepaRathod168&theme=tokyonight&column=7&no-frame=true"/>
-</p>
-
-## 🌱 Currently Learning
-
-- Multi-Agent AI
-- Large Language Models
-- Cloud Computing
-- AI Automation
-- Open Source
-
-## 🌐 Connect
-
-- 📧 deeparathod168@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/deepa-chandrashekhar-rathod-339927300
-- 🌐 Portfolio: https://mindmesh168.netlify.app/
-- 💻 GitHub: https://github.com/DeepaRathod168
+🔗 **Portfolio:** [mindmesh168.netlify.app](https://mindmesh168.netlify.app/)
 
 ---
 
-> *Building intelligent software that creates real-world impact through Artificial Intelligence and Software Engineering.*
+## 👩‍💻 About Me
+
+- 🎓 B.E., Computer Science & Engineering — Jain Institute of Technology, Davangere (CGPA: 8.26/10)
+- 🧠 Focus: AI/ML, Deep Learning, NLP, Computer Vision, CNNs, LLMs
+- 📄 Published researcher — *IJRSI Online Journal*, ISSN 2321-2705, Vol. 13, Issue 4 (Apr 2026)
+- 🏆 NAIN-funded innovator, national hackathon finalist
+- 📍 Always exploring new ways to turn ideas into working systems
+
+## 🛠️ Technical Skills
+
+**Development:** Frontend Development, Full-Stack Development, SQL
+**AI / Machine Learning:** Machine Learning, Deep Learning, NLP, Computer Vision, CNNs, Large Language Models (LLMs)
+**Tools:** Git, GitHub, Jupyter Notebook, Google Colab
+**Databases:** MySQL, Firebase
+**CS Fundamentals:** Data Structures & Algorithms (DSA), Operating Systems, Computer Networks, UNIX
+**Soft Skills:** Communication, Problem-Solving, Creative Thinking, Leadership, Time-management, Teamwork
+
+## 📌 Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| **Air Quality Monitoring System** | Product-level IoT system tracking seven-plus environmental parameters (AQI, PM2.5, PM10, CO, CO₂, NO₂, SO₂) via a live dashboard for real-time analysis and impact reporting. Selected and funded with ₹4,90,000 under the NAIN innovation initiative at IIIT Dharwad. | Python, IoT, Data Visualization |
+| **Cardiovascular Disease Prediction** | Supervised ML model predicting cardiovascular disease risk from ~2,000 patient health records, using data preprocessing, feature engineering, cross-validation, and confusion-matrix analysis. | Python, Machine Learning, Pandas, NumPy |
+| **DeepVision Crowd Monitor** | Real-time crowd density estimation and overcrowding detection system, engineered end-to-end from live video ingestion through deep learning inference to real-time alerting. *Completed – Infosys Springboard Internship 6.0* | Python, OpenCV, Deep Learning |
+| **LifeLink Connect** | Real-time blood donation and emergency-response platform connecting donors, patients, and hospitals across 3 user roles via blood-group matching, GPS-based blood bank locator, and Emergency SOS alerts. | React, TypeScript, Vite, SQL |
+| **Multi-Agent Research System** | System of 20 specialized AI agents that autonomously search, filter, summarize, and cross-reference sources to generate structured, downloadable research papers end-to-end. | Python, Multi-Agent AI, LLMs, PDF Generation |
+
+## 💼 Professional Experience
+
+**Full-Stack Development Virtual Intern — Infosys Springboard (Internship 6.0)** · *Feb – Apr 2026*
+Selected for a competitive, industry-mentored virtual internship in applied AI and full-stack engineering; built production-style AI/CV systems, including the DeepVision Crowd Monitor, under structured mentorship.
+
+**Program Participant — Infosys Springboard, Pragati: Path to Future (Cohort 5)** · *Apr – Jul 2025*
+Completed a structured program covering industry exposure, technical upskilling, and professional communication.
+
+## 🎓 Education
+
+| Degree / Program | Institution | Score | Years |
+|---|---|---|---|
+| B.E., Computer Science & Engineering | Jain Institute of Technology, Davangere | CGPA: 8.26/10 | 2023 – Present |
+| PCMB (Pre-University) | SV Nanavate PU College, Sandur, Ballari | 80% | 2022 – 2023 |
+| State Board (High School) | Krupa Nilaya School, Sandur, Ballari | 89% | 2020 – 2021 |
+
+## 📜 Certifications
+
+- Deloitte Data Analytics Job Simulation – Forage (Jan 2026)
+- SQL & PostgreSQL – Udemy (Jul 2025)
+- Data Science Methodology – IBM / Coursera (Jul 2025)
+- AWS Skill Builder – Infosys × AWS
+- Front-End Development – Infosys Springboard
+
+## 📄 Publication
+
+**"Emotion Recognition Using Machine Learning and Computer Vision: A Hybrid CNN–ViT Multimodal Framework"**
+IJRSI Online Journal, ISSN 2321-2705, Vol. 13, Issue 4, pp. 2922–2933 (April 2026)
+
+## 🏆 Achievements & Leadership
+
+- **Top Innovator** – AI for Bharat Hackathon, Hack2Skill × AWS; shortlisted nationally for the Prototype Development Phase among ~100 competing teams (Mar 2026)
+- **3rd Place** – AIT Ideathon 2025, Atria Institute of Technology (Stellar, GDG & Code Club)
+- **TechSprint Online Hackathon** – GDG OnCampus GSSSIETW (Dec 2025 – Jan 2026)
+- **AI VERSE 2.0** – 48-Hour National Hackathon, Augment.AI Club, BMS College of Engineering (Oct 2025)
+- **Hackathon Coordinator** – Emerge (State-Level Event): coordinated a hackathon sub-event on 25 March 2026, managing registration, event flow, and on-ground coordination
+
+## 🌱 Interests
+
+Open-Source Development · Research Oriented · Web Security · Cloud Computing
+
+## 🗣️ Languages
+
+English (Professional) · Kannada (Native) · Hindi (Limited)
+
+## 📫 Contact
+
+- **Email:** deeparathod168@gmail.com
+- **LinkedIn:** [deepa-chandrashekhar-rathod](https://www.linkedin.com/in/deepa-chandrashekhar-rathod-339927300)
+- **GitHub:** [@DeepaRathod168](https://github.com/DeepaRathod168)
+- **Portfolio:** [mindmesh168.netlify.app](https://mindmesh168.netlify.app/)
+
+---
+
+⭐ Thanks for stopping by — feel free to explore my repos and connect!
